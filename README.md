@@ -1,23 +1,18 @@
-## A simple project using TailwindCss
+# A project Using Tailwind Css and React to Study animations with Pure Css
 
-## Hero nao faz parte de um container
 
-## Hero precisa ter altura full
+# Project Build
 
-## aumentar titulo
+-clone Project 
 
-## Subtitulo tem que ser um pouco maior tambem
+-Use Yarn to dowload Node-modules
 
-## Your security tem que ser do tamanho do subtitulo
+yarn start to start a build
 
-## Tamanho dos icones tem que ser maior
 
-## Borda da esquerda no subtitulo nao no titulo
+# Animations
 
-## Cadeado na esquerda e nao na direita
+- Ad this in path localhost:3000
 
-## Header fixed, logo na esquerda tres itens de lista na direita
-
-## Esquerda dos icones um botao mais chamativo 'contac us'
-
-## https://app.netlify.com/sites/awesome-edison-1a972d/overview
+/Loader 
+/Ring
