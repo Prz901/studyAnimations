@@ -1,10 +1,12 @@
 import React from 'react'
 
+import './index.css'
+
 export default function RingLoader() {
 
   return (
-    <div>
-      <h1>RingLoader Meu BOM</h1>
+    <div className=' bg-black h-screen '>
+      <div  className='animated-ring '>Loading <span></span></div>
     </div>
   )
 
