@@ -1,0 +1,15 @@
+/* animation in Loader.jsx component */
+.animation {
+  border: 5px solid white;
+  width: 100px;
+  height: 100px;
+
+  border-radius: 50%;
+  border-color: orange transparent ;
+  animation:spin 2s linear infinite;
+}
+
+@keyframes spin {
+  100%{transform: rotate(360deg); filter: hue-rotate(360deg);}
+}
+
