@@ -3,9 +3,9 @@
 
 # Project Build
 
--clone Project 
+- clone Project 
 
--Use Yarn to dowload Node-modules
+- use Yarn to dowload Node-modules
 
 yarn start to start a build
 
