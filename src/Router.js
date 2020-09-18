@@ -5,7 +5,8 @@ import { Switch, Route, BrowserRouter } from 'react-router-dom'
 import {
   Home,
   Loader,
-  Ring
+  Ring,
+  Glowing
 } from './pages'
 
 export default (props) => {
@@ -15,6 +16,7 @@ export default (props) => {
         <Route exact path="/" component={Home} />
         <Route exact path="/Loader" component={Loader} />
         <Route exact path="/Ring" component={Ring} />
+        <Route exact path="/Glowing" component={Glowing} />
 
       </Switch>
     </BrowserRouter>
