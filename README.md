@@ -7,7 +7,7 @@
 
 - use Yarn to dowload Node-modules
 
-yarn start to start a build
+ - yarn start to start a build
 
 
 # Animations
