@@ -7,12 +7,13 @@
 
 - use Yarn to dowload Node-modules
 
- - yarn start to start a build
+ - yarn start to start the project
 
 
 # Animations
 
 - Ad this in path localhost:3000
 
-/Loader 
+/Loader
+
 /Ring
